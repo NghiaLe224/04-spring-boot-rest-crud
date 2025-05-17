@@ -1,4 +1,4 @@
-package com.luv2code.demo.rest.entity;
+package com.luv2code.demo.entity;
 
 public class Student {
     private String firstName;
